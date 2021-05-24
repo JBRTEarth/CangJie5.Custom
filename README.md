@@ -5,6 +5,7 @@
 	# 二、未來可能改用lex檔，基於原作者Arthurmcarthur的微軟倉頡碼表編輯器。
 		# 已用Jackchows的lex檔測試，環境，Win10Homex64.20h2(19042.985)、安全軟體COMODO，稍為延遲幾毫秒，待研究。
 		# https://github.com/Arthurmcarthur/MicrosoftCangjieTool
+20210524
 	
 # 零、結構（20200812）：
 	# Keyboard Layout: qwerty.
