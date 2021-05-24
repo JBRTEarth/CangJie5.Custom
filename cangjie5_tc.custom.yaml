@@ -1,0 +1,12 @@
+# Rime schema settings
+# encoding: utf-8
+
+patch:
+  translator/enable_completion: false
+  translator/enable_user_dict: false
+  translator/enable_sentence: false
+  key_binder/bindings:
+    - {when: has_menu, accept: space, send: space}
+    - {when: composing, accept: space, send: Escape}
+#  reverse_lookup/prefix: "`"
+#  menu/page_size: 8
