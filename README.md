@@ -1,5 +1,11 @@
-# CangJie5.Custom
-
+CangJie5.Custom
+	一、目前僅提供中州韻輸入法框架的yaml檔，修改檔基於原作者Jackchows的cangjie5_tc.dict.yaml。
+		https://rime.im/
+		https://github.com/Jackchows/Cangjie5
+	二、未來可能改用lex檔，基於原作者Arthurmcarthur的微軟倉頡碼表編輯器。
+		已用Jackchows的lex檔測試，環境，Win10Homex64.20h2(19042.985)、安全軟體COMODO，稍為延遲幾毫秒，待研究。
+		https://github.com/Arthurmcarthur/MicrosoftCangjieTool
+	
 # 零、結構（20200812）：
 	# Keyboard Layout: qwerty.
 	# 簡碼（參考：ROC重編國語辭典第五版、PRC雙拼智能ABC、朱邦復漢字基因字典），
