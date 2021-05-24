@@ -1,3 +1,4 @@
+# 快選功能尚待完成……
 # CangJie5.Custom
 	# 一、目前僅提供中州韻輸入法框架的yaml檔，修改檔基於原作者Jackchows的cangjie5_tc.dict.yaml。
 		# https://rime.im/
